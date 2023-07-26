@@ -57,7 +57,7 @@ Con todos estos datos y análisis en consideración, llegamos a la conclusión d
 Como amante de la música y data scientist, este estudio ha sido una experiencia gratificante, ya que nos ha permitido combinar nuestras habilidades analíticas con nuestra pasión por la música para obtener información valiosa sobre las tendencias musicales y lo que hace que una canción sea realmente exitosa. Esperamos que estos hallazgos sean útiles para la industria musical y para los artistas que buscan alcanzar la popularidad y el éxito con su música.
 
 
-# Proyecto de Análisis de Datos para Escuela Integral de Música
+# Proyecto de Análisis de Datos WEB para Escuela Integral de Música
 
 ## Introducción
 
