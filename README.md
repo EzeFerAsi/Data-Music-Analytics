@@ -61,11 +61,12 @@ Como amante de la música y data scientist, este estudio ha sido una experiencia
 
 ## Introducción
 
-¡Bienvenidos a mi repositorio! Soy [Tu Nombre], un experto en análisis de datos y un apasionado de la música. En este proyecto, he llevado a cabo un análisis completo para una Escuela Integral de Música con el objetivo de mejorar su presencia en línea y su oferta de servicios para músicos de todos los niveles.
 
 ## Objetivos
 
 El propósito principal de este proyecto fue identificar oportunidades de crecimiento y optimización para la escuela. Me propuse:
+
+¡Bienvenidos a mi repositorio! Soy Ezequiel Fernàndez Asiain, análisis de datos y un apasionado de la música. En este proyecto, he llevado a cabo un análisis completo para una Escuela Integral de Música con el objetivo de mejorar su presencia en línea y su oferta de servicios para músicos de todos los niveles.
 
 - Analizar los datos para comprender las necesidades de nuestros clientes potenciales.
 - Crear una tienda virtual atractiva y funcional en la página Ecwid (https://apolomusicschool.company.site/) para facilitar la compra de cursos y servicios.
